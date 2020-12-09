@@ -1,6 +1,8 @@
 ### Hi there 👋
 ##### I'm looking for a job
 
+![Profile views](https://gpvc.arturio.dev/melodyogonna)
+
 ![melodyogonna's github stats](https://github-readme-stats.vercel.app/api?username=melodyogonna&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyogonna&show_icons=true&theme=radical&layout=compact)
 
