@@ -1,6 +1,9 @@
 ### Hi there 👋
 ##### I'm looking for a job
 
+![melodyogonna's github stats](https://github-readme-stats.vercel.app/api?username=melodyogonna&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melodyogonna&show_icons=true&theme=radical)
+
 <!--
 **melodyogonna/melodyogonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
