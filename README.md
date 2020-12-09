@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### Don't worry, I'll still fill this out 
+##### I'm looking for a job
 
 <!--
 **melodyogonna/melodyogonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
